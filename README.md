@@ -25,7 +25,7 @@ ProVox leverages DALL-E, an advanced image generation model, to create stunning 
 ## Screenshots
 
 ![Screenshot 1](images/ss1.png)
-![Screenshot 2](images/WhatsApp%20Image%202023-07-31%20at%2012.19.10%20AM.png)
+![Screenshot 2](images/ss2.png)
 
 ## Getting Started
 
