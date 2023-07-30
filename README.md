@@ -1,5 +1,5 @@
 # ProVox
-(images/ProVox.png)
+(ProVox/images/ProVox.png)
 
 ProVox is a [brief description of your app here].
 
@@ -26,8 +26,8 @@ ProVox leverages DALL-E, an advanced image generation model, to create stunning 
 
 ## Screenshots
 
-(images/ss1.png)
-(images/WhatsApp Image 2023-07-31 at 12.19.10 AM.png)
+(ProVox/images/ss1.png)
+(ProVox/images/WhatsApp Image 2023-07-31 at 12.19.10 AM.png)
 
 ## Getting Started
 
